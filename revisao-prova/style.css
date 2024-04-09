@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding : 0;
+}
+
+header{
+    display: flex;
+    padding: 5px 20px;
+    justify-content: space-between;
+    text-align: center;
+    }
+
+    ul{
+         display: flex;
+        gap: 40px;
+    }
+
+    li{
+        list-style: none;
+    }
+
+    .projeto{
+        display: flex;
+        flex-direction: column;
+    }
